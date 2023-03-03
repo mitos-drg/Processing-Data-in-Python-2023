@@ -1,0 +1,9 @@
+# .gitignore file for Processing Data in Python repository
+
+# IDE config directories (please add yours if missing)
+## PyCharm
+.idea/**
+
+## vs code
+.vscode/**
+
